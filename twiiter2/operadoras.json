@@ -1,0 +1,26 @@
+[
+    {
+        "vivo": {
+            "keyword": "vivobr",
+            "path_file": "data/vivo"
+        }
+    },
+    {
+        "oi": {
+            "keyword": "oi_oficial",
+            "path_file": "data/oi"
+        }
+    },
+    {
+        "claro": {
+            "keyword": "claroBrasil",
+            "path_file": "data/claro"
+        }
+    },
+    {
+        "tim": {
+            "keyword": "TIMBrasil",
+            "path_file": "data/tim"
+        }
+    }
+]
